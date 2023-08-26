@@ -1,0 +1,1 @@
+{"version":3,"file":"types.js","sourceRoot":"","sources":["src/types.ts"],"names":[],"mappings":"","sourcesContent":["export interface IReport {\n    title: string;\n    body: string; \n    id: number; \n    userId: string;\n}"]}
